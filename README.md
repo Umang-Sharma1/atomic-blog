@@ -1,4 +1,8 @@
 # Getting Started with Create React App
+<img src = "https://res.cloudinary.com/dzmffwmxi/image/upload/v1716622601/Screenshot_2024-05-25_130622_l2dn73.png">
+<img src = "https://res.cloudinary.com/dzmffwmxi/image/upload/v1716622632/Screenshot_2024-05-25_130656_tmeouo.png">
+
+This is a blogging website in this we can add post and clear post.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
